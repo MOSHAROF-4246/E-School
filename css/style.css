@@ -1,0 +1,164 @@
+/* navbar start */
+
+.logo{
+    height: 50px;
+}
+
+
+.btn{
+    padding: 7px 20px;
+    font-size: 16px;
+    color: #fff;
+    border-radius: 33px;
+    background: #21B573;
+    border: none;
+    transition: all linear .4s;
+    -webkit-transition: all linear .4s;
+    -moz-transition: all linear .4s;
+    -ms-transition: all linear .4s;
+    -o-transition: all linear .4s;
+}
+
+.btn:hover{
+    background: #21B573;
+    box-shadow: 5px 5px 12px lightgray; 
+}
+
+.navbar ul li a{
+    color: #000;
+}
+
+.light-green-bg{
+    background: #F0FFF0 !important;
+    
+}
+
+.container{
+    margin-bottom: 50px;
+}
+/* navbar end */
+
+/* banner section start */
+#banner{
+    background: #F0FFF0 !important;
+    padding-top: 80px;
+}
+
+.color-red{
+    color: #FD511A;
+}
+
+
+/* banner section end */
+
+/* catagory start */
+
+
+.cat-img{
+    width: 50px;
+}
+
+.cat-txt{
+    padding-top: 20px;
+}
+
+.cat-txt p{
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.cat-pad{
+    background: #F0FFF0 ;
+    padding-top: 20px;
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px lightgray;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}  
+
+.cat-pad:hover{
+    background: #fff ;
+}
+/* catagory end */
+
+/* online course start */
+.sec-header{
+    height: 100px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 12px lightgray;
+}
+
+.card-footer{
+    border: none;
+    background: transparent;
+}
+
+/* online course end */
+
+/* testimonial start */
+#testimonial{
+    height: 300px;
+}
+
+.testimonial-img img{
+    width: 80px;
+}
+
+.testimonial{
+    position: relative;
+}
+
+.testimonial-item{
+    height: 250px;
+    /* margin: 0 200px; */
+}
+
+.testimonial-txt{
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+/* testimonial end */
+
+/* footer part start */
+footer{
+    height: 350px;
+    background: #282531;
+    color: #fff;
+    padding-top: 40px;
+}
+
+footer a{
+    display: block;
+    text-decoration: none;
+    color: #c2bfbf;
+    margin: 10px 0;
+    transition: all linear .3s;
+    -webkit-transition: all linear .3s;
+    -moz-transition: all linear .3s;
+    -ms-transition: all linear .3s;
+    -o-transition: all linear .3s;
+}
+
+footer a:hover{
+    color: #21B573;
+}
+
+
+footer h5{
+    margin-bottom: 20px;
+}
+footer .footer-txt{
+    font-size: 12px !important;
+    text-align: center;
+    padding-top: 40px;
+}
+
+/* footer part end */
